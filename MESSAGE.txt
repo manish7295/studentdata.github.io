@@ -1,0 +1,8 @@
+Hi there everyone,
+I am uploading this project for you all so that you could learn how to implement the same project with CSS Design.
+In this project, I had used a downloaded template to modify the same the last year when I was learning PHP.
+Try not just to copy but to learn it thoroughly.
+I'm sure that it will help you all to clear your concept.
+I would try to upload one or two more projects in future on friend request system and library management system all coded by me.
+Till then I would be wishing if you all created this one properly in your style.
+Regards
